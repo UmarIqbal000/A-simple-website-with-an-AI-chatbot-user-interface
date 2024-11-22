@@ -1,0 +1,7 @@
+project/
+│
+├── index.html        // Main HTML file
+├── style.css         // Styling
+├── script.js         // Frontend logic
+├── server.py         // Backend logic (or server.js for Node.js)
+└── static/           // Folder for static assets (images, etc.)
